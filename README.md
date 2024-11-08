@@ -35,3 +35,20 @@
 
 **Copyright © 2019 Captain Pangyo**
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
+
+### vue cli 설치 페이지
+```
+https://cli.vuejs.org/guide/installation.html
+```
+
+### 프로젝트 설치옵션
+```
+Manually select features
+Babel, Linter, Unit
+2.x <-- Vue 2로 하시는게 중요합니다. 아직 Vue 3는 상용 서비스에 적용하기에는 무리가 있습니다.
+Prettier
+Lint on Save
+Jest
+In dedicated config files
+n
+```
